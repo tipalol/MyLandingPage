@@ -23,3 +23,6 @@ body {
 	height: 500px;
 	background: rgb(237, 238, 240);
 }
+.navbar-toggler {
+	cursor: pointer;
+}
