@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+body {
+	margin-top: 56px;
+}
+.navbar {
+	background: #00ADEF;
+}
+.navbar-brand {
+	font-weight: 800;
+	text-transform: uppercase;
+}
+.nav-link {
+	font-weight: 700;
+
+}
+.white-block {
+	width: 100%;
+	height: 500px;
+	background: #ffffff;
+}
+.light-block {
+	width: 100%;
+	height: 500px;
+	background: rgb(237, 238, 240);
+}
